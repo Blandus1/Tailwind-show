@@ -1,12 +1,17 @@
 
 import './App.css'
-import Task from './Task'
+import Navbar from './Navbar'
+import NavbarT from './NavbarT'
+import PartOne from './partOne'
 
 function App() {
 
   return (
     <>
-      <Task/>
+      <Navbar/>
+      <NavbarT/>
+      <PartOne/>
+      
     </>
   )
 }
