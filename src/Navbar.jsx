@@ -6,19 +6,19 @@ function Navbar() {
     <>
     <div class="bg-[#ecf7fa] relative p-15">
    <div class="flex " >
-    <img src="src\assets\linkedIn.svg"  class="w-[35px] h-[36.23234px] opacity-100 absolute top-[50px] left-38 rotate-0 "/>
+    <img src="src/assets/linkedIn.svg"  class="w-[35px] h-[36.23234px] opacity-100 absolute top-[50px] left-38 rotate-0 "/>
             <div class="w-px h-15 absolute top-10 left-60 rounded-xs bg-gray-300 text-center"></div>
 
-   <img src="src\assets\twitter.svg"  class="w-[35px] h-[36.23234px] opacity-100 absolute top-[50px] left-75 rotate-0"/>
+   <img src="src/assets/twitter.svg"  class="w-[35px] h-[36.23234px] opacity-100 absolute top-[50px] left-75 rotate-0"/>
             <div class="w-px h-15 absolute top-10 left-100 rounded-xs bg-gray-300 text-center"></div>
 
-   <img src="src\assets\facebook.svg"  class="w-[35px] h-[36.23234px] opacity-100 absolute top-[50px] left-112 rotate-0"/>
+   <img src="src/assets/facebook.svg"  class="w-[35px] h-[36.23234px] opacity-100 absolute top-[50px] left-112 rotate-0"/>
             <div class="w-px h-15 absolute top-10 left-140 rounded-xs bg-gray-300 text-center"></div>
 
-   <img src="src\assets\youtube.svg"  class="w-[35px] h-[36.23234px] opacity-100 absolute top-[50px] left-154 rotate-0"/>
+   <img src="src/assets/youtube.svg"  class="w-[35px] h-[36.23234px] opacity-100 absolute top-[50px] left-154 rotate-0"/>
             <div class="w-px h-15 absolute top-10 left-180 rounded-xs bg-gray-300 text-center"></div>
 
-   <img src="src\assets\instgram.svg"  class="w-[35px] h-[36.23234px] opacity-100 absolute top-[50px] left-196 rotate-0"/>
+   <img src="src/assets/instgram.svg"  class="w-[35px] h-[36.23234px] opacity-100 absolute top-[50px] left-196 rotate-0"/>
     </div>
 
     <section  class="flex space-x-4">
