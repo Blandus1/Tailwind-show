@@ -4,6 +4,7 @@ import Navbar from './Navbar'
 import Logo from './Logo'
 import NavbarT from './NavbarT'
 import PartOne from './partOne'
+import Cards from './assets/cards'
 
 function App() {
 
@@ -11,8 +12,9 @@ function App() {
     <>
       <Navbar/>
       <Logo/>
-      <NavbarT/>
       <PartOne/>
+      <NavbarT/>
+      <Cards/>
       
     </>
   )
