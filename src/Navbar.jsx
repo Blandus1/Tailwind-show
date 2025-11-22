@@ -1,28 +1,23 @@
-import linkedIn from './assets/linkedIn.svg';
-import twitter from './assets/twitter.svg';
-import facebook from './assets/facebook.svg';
-import youtube from './assets/youtube.svg';
-import instgram from  './assets/instgram.svg';
 
 function Navbar() {
 
   return (
     <>
-    <div class="bg-[#ecf7fa] relative p-15">
-   <div class="flex " >
-    <img src={linkedIn} class="w-[35px] h-[36.23234px] opacity-100 absolute top-[50px] left-38 rotate-0 "/>
+    <div class="  bg-[#ecf7fa] relative p-15">
+   <div class="flex" >
+    <img src="/linkedIn.svg" class="w-[35px] h-[36.23234px] opacity-100 absolute top-[50px] left-38 rotate-0 "/>
             <div class="w-px h-15 absolute top-10 left-60 rounded-xs bg-gray-300 text-center"></div>
 
-   <img src={twitter}  class="w-[35px] h-[36.23234px] opacity-100 absolute top-[50px] left-75 rotate-0"/>
+   <img src="/twitter.svg"  class="w-[35px] h-[36.23234px] opacity-100 absolute top-[50px] left-75 rotate-0"/>
             <div class="w-px h-15 absolute top-10 left-100 rounded-xs bg-gray-300 text-center"></div>
 
-   <img src={facebook}  class="w-[35px] h-[36.23234px] opacity-100 absolute top-[50px] left-112 rotate-0"/>
+   <img src="/facebook.svg"  class="w-[35px] h-[36.23234px] opacity-100 absolute top-[50px] left-112 rotate-0"/>
             <div class="w-px h-15 absolute top-10 left-140 rounded-xs bg-gray-300 text-center"></div>
 
-   <img src={youtube}  class="w-[35px] h-[36.23234px] opacity-100 absolute top-[50px] left-154 rotate-0"/>
+   <img src="/youtube.svg"  class="w-[35px] h-[36.23234px] opacity-100 absolute top-[50px] left-154 rotate-0"/>
             <div class="w-px h-15 absolute top-10 left-180 rounded-xs bg-gray-300 text-center"></div>
 
-   <img src={instgram}  class="w-[35px] h-[36.23234px] opacity-100 absolute top-[50px] left-196 rotate-0"/>
+   <img src="/instgram" class="w-[35px] h-[36.23234px] opacity-100 absolute top-[50px] left-196 rotate-0"/>
     </div>
 
     <section  class="flex space-x-4">
@@ -31,10 +26,7 @@ function Navbar() {
 
     <p class="w-[53px] h-[19px] absolute top-[58.62px] left-600 font-['Rubik'] font-normal text-[20px] leading-[100%] text-[#0B132A]">Publications</p>
     </section>
-   
-    
-
-
+  
     </div>
     
     </>

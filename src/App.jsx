@@ -4,7 +4,8 @@ import Navbar from './Navbar'
 import Logo from './Logo'
 import NavbarT from './NavbarT'
 import PartOne from './partOne'
-import Cards from './assets/cards'
+import Optmistic from './optimistic'
+import Cards from './cards'
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
       <Logo/>
       <PartOne/>
       <NavbarT/>
+      <Optmistic/>
       <Cards/>
       
     </>
