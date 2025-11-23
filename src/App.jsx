@@ -18,7 +18,7 @@ function App() {
       <NavbarT/>
       <Optmistic/>
       <Cards/>
-      {/* <Social/> */}
+      <Social/>
       
     </>
   )

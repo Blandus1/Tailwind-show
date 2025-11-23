@@ -3,7 +3,7 @@ function Social (){
     return (
         <>
         <div>
-        <h1>SOCIAL PROTECTION SCHEMES</h1>
+   <h1 class="font-bold text-blue-800 text-[20px] text-center">SOCIAL PROTECTION SCHEMES</h1>
         <div>
             <h1>PENSION SCHEME</h1>
             <p>Retire With Dignity</p>
