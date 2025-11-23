@@ -1,8 +1,7 @@
-import occupation from './assets/occupation.jpeg';
 function PartOne(){
     return (
         <>
-        <div  class="h-screen w-full bg-cover bg-center bg-no-repeat relative " style={{ backgroundImage: `url(${occupation})` }} />
+        <div  class="h-screen w-full bg-cover bg-center bg-no-repeat relative " style={{ backgroundImage: `url('/occupation.jpeg')` }}  />
          <div class="absolute top-130 left-0 w-3/5 h-full opacity-90 bg-gray-200 filter blur-[100px]"></div>
         <div class="absolute top-150 left-50 text-[38px]">
         <p class=" w-150 h-25 absolute top-35 text-[46px] ">We are here<span class="font-bold text-orange-400"> For you</span>.</p>

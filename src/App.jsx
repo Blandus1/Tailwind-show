@@ -6,6 +6,7 @@ import NavbarT from './NavbarT'
 import PartOne from './partOne'
 import Optmistic from './optimistic'
 import Cards from './cards'
+import Social from './social'
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
       <NavbarT/>
       <Optmistic/>
       <Cards/>
+      <Social/>
       
     </>
   )
